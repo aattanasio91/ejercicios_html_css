@@ -1,0 +1,32 @@
+.imperio {
+    background-color: red;
+}
+
+.rebeldes {
+    background-color: blue;
+}
+
+#iAmYourFather{
+    font-size: 150%;
+}
+
+#nooooo{
+    font-style: italic;
+}
+
+.soldados{
+    border: white;
+    letter-spacing: 5px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
+
+.img{
+    width: 300px;height: 200px;
+}
